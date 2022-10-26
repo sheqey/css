@@ -3,6 +3,11 @@
 .elementor-widget-archive-posts:after,.elementor-widget-posts:after{
     display:flex
 }
+
+body{
+    
+    background-color: red;
+}
 .elementor-posts-container.elementor-posts-masonry{
     -webkit-box-align:start;
     -ms-flex-align:start;
